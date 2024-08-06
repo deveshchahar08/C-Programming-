@@ -333,13 +333,6 @@ int main ()
 }
 
 
-// 15.
-
-
-
-
-
-
 // write a c program and check a number is greater than 10 or not:
 
 #include <stdio.h>
